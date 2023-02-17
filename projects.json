@@ -118,5 +118,13 @@
     "year": "2022_WS",
     "info": "Gemoetry dash with endless levels",
     "status": "1"
+  },
+  {
+     "title": "Bus foahn",
+    "folder": "Bus Foahn",
+    "author": "Paul Hartl",
+    "year": "2022_WS",
+    "info": "cardgame",
+    "status": "-1"
   }
 ]
